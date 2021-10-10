@@ -1,6 +1,11 @@
-# TheMorseCode
+# The Morse Code
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+Dusan Kascelan - `dusan.kascelan@yahoo.com`
+
+## Install dependencies
+
+Run `npm install` to download and install all dependencies required for this project.
 
 ## Development server
 
